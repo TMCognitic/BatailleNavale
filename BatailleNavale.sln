@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatailleNavale", "BatailleNavale\BatailleNavale.csproj", "{9DFCA9C6-01D7-4409-82D1-0C81D3388BFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{AF400719-C493-484D-901C-4FD8A7DEC40E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DFCA9C6-01D7-4409-82D1-0C81D3388BFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DFCA9C6-01D7-4409-82D1-0C81D3388BFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DFCA9C6-01D7-4409-82D1-0C81D3388BFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DFCA9C6-01D7-4409-82D1-0C81D3388BFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF400719-C493-484D-901C-4FD8A7DEC40E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF400719-C493-484D-901C-4FD8A7DEC40E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF400719-C493-484D-901C-4FD8A7DEC40E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF400719-C493-484D-901C-4FD8A7DEC40E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BE7B736-23A5-4CBD-8A8F-26FA8DBA2686}
+	EndGlobalSection
+EndGlobal
